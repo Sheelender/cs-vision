@@ -46,7 +46,7 @@ const HAbout = () => {
                             <br></br>
                             {val.sub.map((subs) => (
                               <>
-                                < a href="" style={{ lineHeight: "30px", fontSize: "10px", color: "#1eb2a6" }}>{'\u2B24'}</a>   <span> {subs}</span>
+                                < a href="" style={{ lineHeight: "30px", fontSize: "10px", color: "#3D48A6" }}>{'\u2B24'}</a>   <span> {subs}</span>
                                 <br></br>
                               </>
                             ))}

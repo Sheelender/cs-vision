@@ -1,4 +1,5 @@
 import React from "react"
+import logo from "../../assets/logo.png"
 
 const Head = () => {
   return (
@@ -6,6 +7,14 @@ const Head = () => {
       <section className='head'>
         <div className='container flexSB'>
           <div className='logo'>
+            <img src={logo}
+              style={{
+                height: "91%",
+                width: "18%",
+                marginLeft: "-81px",
+                marginBottom: "-15%"
+              }}
+              alt="logo"></img>
             <h1>CS Vision</h1>
             <span>DON'T LEARN WITHOUT US</span>
           </div>
