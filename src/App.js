@@ -1,4 +1,5 @@
 import "./App.css"
+import React from 'react';
 import Header from "./components/common/header/Header"
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
 import About from "./components/about/About"
@@ -15,12 +16,12 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route exact path='/' element={<Home/>} />
+          <Route exact path='/' element={<Home />} />
           {/* <Route exact path='/about' element={<About/>} /> */}
           {/* <Route exact path='/courses' element={<CourseHome/>} /> */}
           {/* <Route exact path='/team' element={<Team/>} /> */}
           {/* <Route exact path='/pricing' element={<Pricing/>} /> */}
-          <Route exact path='/contact' element={<Contact/>} />
+          <Route exact path='/contact' element={<Contact />} />
         </Routes>
         <Footer />
       </Router>
