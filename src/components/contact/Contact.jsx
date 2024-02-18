@@ -3,6 +3,7 @@ import Back from "../common/back/Back"
 import "./contact.css"
 
 const Contact = () => {
+  
   const map = 'https://maps.app.goo.gl/ttGUkCEu1NZFcyit7" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" '
   return (
     <>

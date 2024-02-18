@@ -28,7 +28,7 @@ const Header = () => {
               <Link to='/pricing'>Pricing</Link>
             </li>
             <li>
-              <Link to='/contact'>Contact</Link>
+              <Link to='https://forms.gle/rNZsVBxUdHkmHPng8' target="_blank">Contact</Link>
             </li>
           </ul>
           <div className='start'>

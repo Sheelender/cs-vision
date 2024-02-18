@@ -4,6 +4,7 @@ import "./about.css"
 import { homeAbout } from "../../dummydata"
 import Awrapper from "./Awrapper"
 import comingSoon from '../assets/comingsoon.gif'
+import image from '../assets/about.png'
 
 const AboutCard = () => {
   console.log("Inside About card")
@@ -12,7 +13,7 @@ const AboutCard = () => {
       <section className='aboutHome'>
         <div className='container flexSB'>
           <div className='left row'>
-            <img src='./images/about.webp' alt='' />
+            <img src={image} alt='' />
           </div>
           <div className='right row'>
             <Heading subtitle='LEARN ANYTHING' title='Benefits About Learning Expertise' />
