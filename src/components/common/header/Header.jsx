@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <>
       <Head />
-      <header>
+      <header style={{zIndex:"2"}}>
         <nav className='flexSB'>
           <ul className={click ? "mobile-nav" : "flexSB "} onClick={() => setClick(false)}>
             <li>
@@ -32,7 +32,11 @@ const Header = () => {
             </li>
           </ul>
           <div className='start'>
-            <div className='button'>GET CERTIFICATE</div>
+            <Link to='https://forms.gle/K8HsU9yKhFF8NAsB8' target="_blank" style={{ color: "#fff" }}>
+
+              <div className='button' style={{ color: "#fff" }}>ENROLL NOW <i className='fa fa-long-arrow-alt-right'></i></div>
+              </Link>
+            {/* <div className='button'>ENROLL NOW <i className='fa fa-long-arrow-alt-right'></i></div> */}
           </div>
           <button className='toggle' onClick={() => setClick(!click)}>
             {click ? <i className='fa fa-times'> </i> : <i className='fa fa-bars'></i>}

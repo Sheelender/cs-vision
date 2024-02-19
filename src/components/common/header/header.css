@@ -2,6 +2,7 @@
 .head {
   padding: 20px 0;
   color: #fff;
+  z-index: 45;
 }
 .logo h1 {
   font-size: 35px;
