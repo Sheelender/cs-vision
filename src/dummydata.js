@@ -384,13 +384,15 @@ export const testimonal = [
     post: "Sr. Software Engineer",
     desc: "Neha currently working at American Express. She has 5+ years of working experience in Full Stack development.",
     cover: "./images/testo/neha.webp",
+    linkdin: "https://www.linkedin.com/in/neha-sharma-56b91914a/"
   },
   {
     id: 2,
-    name: "Gaurav Sharma",
+    name: "Gourav Sharma",
     post: "Software Engineer",
-    desc: "Gaurav is specialised in Java and React.He has working experience with Bharti Airtel.",
+    desc: "Gaurav is specialised in Java and React.He has working experience with Bharti Airtel.Currently working in Apeejay Education Society",
     cover: "./images/testo/gu.webp",
+    linkdin: "https://www.linkedin.com/in/gourav-sharma-3662b1185/"
   },
   {
     id: 3,
@@ -398,6 +400,7 @@ export const testimonal = [
     post: "Software Engineer",
     desc: "Satyam is software developer at Panamoure. He has expertise in Data Sciece, AI and Power Platform certified by Microsoft.",
     cover: "./images/testo/sat.webp",
+    linkdin: "https://www.linkedin.com/in/satyam-pandey-2b05741ba/"
   },
   {
     id: 3,
@@ -405,5 +408,6 @@ export const testimonal = [
     post: "Senior Advisor",
     desc: "Sheelender is certified Data Science engineer specialised in Artificial Intelligence.",
     cover: "./images/testo/shilu.webp",
+    linkdin: "https://www.linkedin.com/in/sheelendersharma/"
   },
 ]
