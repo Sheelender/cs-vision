@@ -3,6 +3,7 @@ import OnlineCourses from "../allcourses/OnlineCourses"
 import Heading from "../common/heading/Heading"
 import "../allcourses/courses.css"
 import { coursesCard } from "../../dummydata"
+import { Link } from "react-router-dom"
 
 const HAbout = () => {
   return (
@@ -60,7 +61,10 @@ const HAbout = () => {
                       {val.priceAll} / {val.pricePer}
                     </h3>
                   </div>
-                  <button className='outline-btn'>ENROLL NOW !</button>
+                  <Link to='https://forms.gle/K8HsU9yKhFF8NAsB8' target="_blank" style={{ color: "#fff" }}>
+                    <button className='outline-btn'>ENROLL NOW !</button>
+                    </Link>
+                  
                 </div>
               ))}
             </div>

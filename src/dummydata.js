@@ -49,7 +49,7 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "1 - 6 CLASS",
+        name: "STEP-1",
 
       },
     ],
@@ -71,8 +71,8 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "7 - 10 CLASS",
-        totalTime: "7-10 CLASS",
+        name: "STEP_2",
+        totalTime: "STEP-2",
       },
     ],
     sub: [
@@ -93,8 +93,8 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "11 - GRADUATE",
-        totalTime: "11-GRADUATE",
+        name: "STEP-3",
+        totalTime: "STEP-3",
       },
     ],
     sub: [

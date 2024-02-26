@@ -13,6 +13,7 @@ import Home from "./components/home/Home"
 function App() {
   return (
     <>
+      {/* <div style={{ width: "145%" }}> */}
       <Router>
         <Header />
         <Routes>
@@ -25,6 +26,7 @@ function App() {
         </Routes>
         <Footer />
       </Router>
+      {/* </div> */}
     </>
   )
 }
