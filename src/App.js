@@ -10,6 +10,9 @@ import Blog from "./components/blog/Blog"
 import Contact from "./components/contact/Contact"
 import Footer from "./components/common/footer/Footer"
 import Home from "./components/home/Home"
+import Testimonal from "./components/home/testimonal/Testimonal";
+import HAbout from "./components/home/HAbout";
+import AboutCard from "./components/about/AboutCard";
 function App() {
   return (
     <>
@@ -18,10 +21,10 @@ function App() {
         <Header />
         <Routes>
           <Route exact path='/' element={<Home />} />
-          {/* <Route exact path='/about' element={<About/>} /> */}
-          {/* <Route exact path='/courses' element={<CourseHome/>} /> */}
-          {/* <Route exact path='/team' element={<Team/>} /> */}
-          {/* <Route exact path='/pricing' element={<Pricing/>} /> */}
+          <Route exact path='/about' element={<AboutCard />} />
+          <Route exact path='/courses' element={<HAbout />} />
+          <Route exact path='/team' element={<Testimonal />} />
+          <Route exact path='/pricing' element={<HAbout />} />
           <Route exact path='/contact' element={<Contact />} />
         </Routes>
         <Footer />
