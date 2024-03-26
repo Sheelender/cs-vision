@@ -33,7 +33,11 @@ const CoursesCard = () => {
                             <img src={details.dcover} alt='' />
                           </div>
                           <div className='para'>
-                            <h4>{details.name}</h4>
+                            <h4>{details.name}
+                            <br></br>
+                              <p> {details.price}</p>
+                            </h4>
+
                           </div>
                         </div>
                         <span>{details.totalTime}</span>

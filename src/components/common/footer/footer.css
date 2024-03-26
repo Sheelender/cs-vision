@@ -13,11 +13,11 @@
   font-weight: 500;
   margin-bottom: 15px;
 }
-.newletter .right {
+/* .newletter .right {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
+} */
 .newletter input {
   width: 100%;
   padding: 20px;

@@ -12,8 +12,12 @@ const Footer = () => {
             <span>Empowering Every Generation with Code!</span>
           </div>
           <div className='right row'>
-            <input type='text' placeholder='Enter email address' />
-            <i className='fa fa-paper-plane'></i>
+            {/* <input type='text' placeholder='Enter email address' />
+            <i className='fa fa-paper-plane'></i> */}
+            <h1>Contact Us</h1>
+            <span>Mobile No.: +91 9205038806, +91 8506919741</span>
+            <br></br>
+            <span>Email: csvision.us@gmail.com</span>
           </div>
         </div>
       </section>
