@@ -23,24 +23,10 @@ const AboutCard = () => {
                   <div className='item flexSB'>
                     <div className='img'>
                       <img src={val.cover} alt='' />
-                      {val.id === 2 &&
-                        <img src={comingSoon}
-                          style={{
-                            width: "64%",
-                            height: "39%",
-                            marginLeft: "155%",
-                            marginTop: "5%",
-                            position: "relative"
-                          }}
-                          // "width": "7%", "height": "7%", marginLeft: "65%", marginTop: "-6%" }}
-                          alt="comingSoon"
-                        />}
                     </div>
-
                     <div className='text'>
                       <h2>{val.title}</h2>
-
-                      <p>{val.desc}</p>
+                      <p>&#160; {val.desc}</p>
                     </div>
                   </div>
                 )
@@ -49,7 +35,6 @@ const AboutCard = () => {
           </div>
         </div>
       </section>
-      {/* <Awrapper /> */}
     </>
   )
 }

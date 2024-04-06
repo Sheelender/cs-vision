@@ -1,3 +1,4 @@
+
 export const homeAbout = [
   {
     id: 1,
@@ -9,7 +10,7 @@ export const homeAbout = [
     id: 2,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
     title: "Earn A Certificates",
-    desc: "In process of certificate registery",
+    desc: "Earn a certificate through our platform and unlock new opportunities for your future. Gain valuable skills at your own pace and receive recognition for your achievements. Take the first step towards advancing your career today!",
   },
   {
     id: 3,
@@ -41,6 +42,7 @@ export const awrapper = [
     title: "COURSES",
   },
 ]
+
 export const coursesCard = [
   {
     id: 1,
@@ -192,6 +194,14 @@ export const coursesCard = [
     priceAll: "$20 All Course",
     pricePer: "$3 per month",
   },
+]
+export const certificates = [
+  {
+    cover: "./images/certificate/iaf.png",
+  },
+  {
+    cover: "./images/certificate/iso.png",
+  }
 ]
 export const online = [
   {

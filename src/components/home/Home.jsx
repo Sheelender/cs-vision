@@ -5,6 +5,7 @@ import HAbout from "./HAbout"
 import Hero from "./hero/Hero"
 import Hprice from "./Hprice"
 import Testimonal from "./testimonal/Testimonal"
+import Certificates from "./Certificates"
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       <Hero />
 
       <AboutCard />
+      <Certificates/>
       <HAbout />
       <Testimonal />
       {/* <Hblog /> */}

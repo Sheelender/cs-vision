@@ -167,6 +167,12 @@ p {
   grid-gap: 10px;
 }
 
+.gridtwo{
+  display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+}
+
 .padding {
   padding: 80px 0;
 }
