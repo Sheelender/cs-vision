@@ -21,10 +21,12 @@ const Head = () => {
           </div>
 
           <div className='social'>
-            {/* <Link to='https://www.youtube.com/channel/UCas6cFjAa4BLWRAw0QMVFug' target="_blank">
-              <i className='fab fa-facebook-f icon'></i></Link> */}
+            <Link to='https://www.facebook.com/profile.php?id=61557848445064' target="_blank">
+              <i className='fab fa-facebook-f icon'></i></Link>
             <Link to='https://www.instagram.com/csvision.us/' target="_blank">
               <i className='fab fa-instagram icon'></i></Link>
+            <Link to='https://www.linkedin.com/in/cs-vision-4721b8302/' target="_blank">
+              <i className='fab fa-linkedin icon'></i></Link>
             <Link to='https://twitter.com/CsvisionCs' target="_blank">
               <i className='fab fa-twitter icon'></i></Link>
             <Link to='https://www.youtube.com/channel/UCas6cFjAa4BLWRAw0QMVFug' target="_blank">

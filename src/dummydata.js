@@ -253,6 +253,7 @@ export const online = [
     course: "Enroll Now",
     price: "₹199 only"
   },
+
 ]
 export const team = [
   {
