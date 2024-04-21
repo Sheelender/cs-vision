@@ -42,7 +42,7 @@ form .flexSB input:nth-child(1) {
   font-size: 15px;
   word-spacing: 5px;
 }
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .contacts .container {
     flex-direction: column;
   }
@@ -52,4 +52,4 @@ form .flexSB input:nth-child(1) {
   .contacts .row {
     width: 100%;
   }
-} */
+}

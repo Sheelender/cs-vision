@@ -44,7 +44,7 @@ header ul li a:hover {
   display: none;
 }
 /*--------header------------*/
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .start {
     clip-path: none;
   }
@@ -75,4 +75,4 @@ header ul li a:hover {
     width: 100%;
     background-color: #3D48A6;
   }
-} */
+}
