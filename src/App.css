@@ -167,6 +167,12 @@ p {
   grid-gap: 10px;
 }
 
+.grid1 {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 10px;
+}
+
 .gridtwo {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -182,6 +188,32 @@ p {
   background-color: #fff;
 }
 
+.whatsapp-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #25D366;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  position: fixed;
+  bottom: 30%;
+  /* Adjust to match desired vertical position */
+  right: 20px;
+  /* Adjust to match desired horizontal position */
+  z-index: 1000;
+  /* Ensure the button appears above other elements */
+}
+
+.whatsapp-button .icon {
+  margin-right: 8px;
+}
+
 @media screen and (max-width: 768px) {
 
   * {
@@ -192,6 +224,10 @@ p {
   .grid3,
   .grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .grid1 {
+    grid-template-columns: repeat(1, 1fr);
   }
 
   .back {

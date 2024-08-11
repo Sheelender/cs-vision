@@ -205,53 +205,74 @@ export const certificates = [
 ]
 export const online = [
   {
-    cover: "./images/courses/online/o6.png",
-    hoverCover: "./images/courses/online/o6.1.png",
-    courseName: "Generative AI",
-    course: "Enroll Now",
-    price: "₹3000 only"
-  },
-  {
     cover: "./images/courses/online/o3.png",
     hoverCover: "./images/courses/online/o3.1.png",
-    courseName: "AI/ML",
+    courseName: "Artificial Intelligence and Machine Learning",
     course: "Enroll Now",
-    price: "₹5000 only"
+    price: "₹14990 only"
   },
   {
     cover: "./images/courses/online/o5.png",
     hoverCover: "./images/courses/online/o5.1.png",
-    courseName: "Data Science",
+    courseName: "Data Science and Analytics",
     course: "Enroll Now",
-    price: "₹5000 only"
+    price: "₹14990 only"
   },
   {
     cover: "./images/courses/online/o12.png",
     hoverCover: "./images/courses/online/o12.1.png",
-    courseName: "Full-Stack Development",
+    courseName: "DevOps and Agile Practices",
     course: "Enroll Now",
-    price: "₹5000 only"
+    price: "₹9990 only"
+  },
+  {
+    cover: "./images/courses/online/o14.png",
+    hoverCover: "./images/courses/online/o14.1.png",
+    courseName: "Internet of Things (IoT)",
+    course: "Enroll Now",
+    price: "₹11990 only"
+  },
+  {
+    cover: "./images/courses/online/o15.png",
+    hoverCover: "./images/courses/online/o15.1.png",
+    courseName: "Cloud Computing",
+    course: "Enroll Now",
+    price: "₹11990 only"
+  },
+  {
+    cover: "./images/courses/online/o6.png",
+    hoverCover: "./images/courses/online/o6.1.png",
+    courseName: "Generative AI",
+    course: "Enroll Now",
+    price: "₹10500 only"
+  },
+  {
+    cover: "./images/courses/online/o13.png",
+    hoverCover: "./images/courses/online/o13.1.png",
+    courseName: "Cyber Security",
+    course: "Enroll Now",
+    price: "₹9990 only"
   },
   {
     cover: "./images/courses/online/o9.png",
     hoverCover: "./images/courses/online/o9.1.png",
     courseName: "GitHub",
     course: "Enroll Now",
-    price: "₹1000 only"
+    price: "₹1499 only"
   },
   {
     cover: "./images/courses/online/o1.png",
     hoverCover: "./images/courses/online/o1.1.png",
-    courseName: "Web Development",
+    courseName: "Software Development and Programming",
     course: "Enroll Now",
-    price: "₹5000 only"
+    price: "₹14990 only"
   },
   {
     cover: "./images/courses/online/o11.png",
     hoverCover: "./images/courses/online/o11.1.png",
     courseName: "Practice Interview with an Expert",
     course: "Enroll Now",
-    price: "₹199 only"
+    price: "₹299 only"
   },
 
 ]
@@ -406,7 +427,7 @@ export const testimonal = [
     id: 1,
     name: "Neha Sharma",
     post: "Sr. Software Engineer",
-    desc: "Neha currently working at American Express. She has 5+ years of working experience in Full Stack development.",
+    desc: "Neha is currently employed at American Express, where she brings over five years of extensive experience in Full Stack development. Throughout her career, she has honed her skills in both front-end and back-end technologies, enabling her to design and implement robust, scalable, and user-friendly applications. Neha's expertise spans various programming languages and frameworks, allowing her to work seamlessly across the entire development lifecycle.",
     cover: "./images/testo/neha.webp",
     linkdin: "https://www.linkedin.com/in/neha-sharma-56b91914a/"
   },
@@ -414,7 +435,7 @@ export const testimonal = [
     id: 2,
     name: "Gourav Sharma",
     post: "Software Engineer",
-    desc: "Gaurav is specialised in Java and React.He has working experience with Bharti Airtel.Currently working in Apeejay Education Society",
+    desc: "Gaurav is a skilled professional specializing in Java and React, with a solid background in software development. His expertise in these technologies has enabled him to build dynamic, responsive, and high-performance web applications that meet modern industry standards. During his tenure at Bharti Airtel, Gaurav was instrumental in developing and maintaining critical software solutions that supported the company’s vast operations. His ability to work with complex systems and deliver robust applications under tight deadlines made him a key contributor to the team.",
     cover: "./images/testo/gu.webp",
     linkdin: "https://www.linkedin.com/in/gourav-sharma-3662b1185/"
   },
@@ -422,7 +443,7 @@ export const testimonal = [
     id: 3,
     name: "Satyam Pandey",
     post: "Software Engineer",
-    desc: "Satyam is software developer at Panamoure. He has expertise in Data Sciece, AI and Power Platform certified by Microsoft.",
+    desc: "Satyam is a software developer at Panamoure with a strong expertise in Data Science, Artificial Intelligence, and the Microsoft Power Platform, for which he holds a certification. His technical skills enable him to develop sophisticated data-driven solutions and leverage AI to enhance business processes. Satyam's proficiency in these cutting-edge technologies makes him a valuable asset to his team, driving innovation and efficiency in the projects he undertakes.",
     cover: "./images/testo/sat.webp",
     linkdin: "https://www.linkedin.com/in/satyam-pandey-2b05741ba/"
   },
@@ -430,7 +451,7 @@ export const testimonal = [
     id: 3,
     name: "Sheelender Sharma",
     post: "Senior Advisor",
-    desc: "Sheelender is certified Data Science engineer specialised in Artificial Intelligence.",
+    desc: "Sheelender is a certified Data Science engineer with a specialization in Artificial Intelligence. His expertise in AI allows him to develop advanced algorithms and models that drive data-driven decision-making and innovation. Sheelender's strong foundation in Data Science, combined with his AI specialization, positions him as a key contributor in the field, capable of tackling complex challenges and delivering impactful solutions.",
     cover: "./images/testo/shilu.webp",
     linkdin: "https://www.linkedin.com/in/sheelendersharma/"
   },

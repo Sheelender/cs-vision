@@ -1,5 +1,5 @@
 import "./App.css"
-import React from 'react';
+import React, { Fragment } from 'react';
 import Header from "./components/common/header/Header"
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
 import About from "./components/about/About"
@@ -14,10 +14,11 @@ import Testimonal from "./components/home/testimonal/Testimonal";
 import HAbout from "./components/home/HAbout";
 import AboutCard from "./components/about/AboutCard";
 import FetchCSVData from "./components/fetchData/FetchCSVData";
+import WhatsAppButton from "./components/common/whatsapp/WhatsAppButton";
 function App() {
   // FetchCSVData
   return (
-    <>
+    <Fragment>
       {/* <div style={{ width: "145%" }}> */}
       <Router>
         {/* <FetchCSVData></FetchCSVData> */}
@@ -30,11 +31,13 @@ function App() {
           <Route exact path='/team' element={<Testimonal />} />
           <Route exact path='/pricing' element={<HAbout />} />
           <Route exact path='/contact' element={<Contact />} />
+          <Route exact path='/blog' element={<Blog/>}/>
         </Routes>
         <Footer />
       </Router>
       {/* </div> */}
-    </>
+      <WhatsAppButton />
+    </Fragment>
   )
 }
 
