@@ -9,7 +9,7 @@ export default function FetchCSVData(props) {
     }, []); // The empty array ensures that this effect runs only once, like componentDidMount
 
     const fetchCSVData = () => {
-        const csvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSaI6UysUnR2XE9hx5skJJX-lMCn_n2lukKDWz8-CFxUOM1tT3c9jICaSEZO_skTx-trpib5kqIAKE_/pub?output=csv'; // Replace with your Google Sheets CSV file URL
+        const csvUrl = 'https://docs.google.com/spreadsheets/d/10s--EvVAKZZamo_kOOL8s77cfiN7RgHKFFALMBsqymU/edit?usp=sharing'; // Replace with your Google Sheets CSV file URL
 
         axios.get(csvUrl)    // Use Axios to fetch the CSV data
             .then((response) => {
@@ -25,8 +25,8 @@ export default function FetchCSVData(props) {
 
     function parseCSV(csvText) {
         const rows = csvText.split(/\r?\n/);        // Use a regular expression to split the CSV text into rows while handling '\r'
-        console.log("rows",rows)
-        const headers = rows[0].split(',');  
+        console.log("rows", rows)
+        const headers = rows[0].split(',');
         console.log("headers", headers)      // Extract headers (assumes the first row is the header row)
         const data = [];        // Initialize an array to store the parsed data
         for (let i = 1; i < rows.length; i++) {
@@ -39,5 +39,6 @@ export default function FetchCSVData(props) {
         }
         return data;
     }
+    console.log("csvData : ", csvData);
     return csvData;
 }

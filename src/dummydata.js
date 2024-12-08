@@ -205,77 +205,87 @@ export const certificates = [
 ]
 export const online = [
   {
-    cover: "./images/courses/online/o3.png",
-    hoverCover: "./images/courses/online/o3.1.png",
-    courseName: "Artificial Intelligence and Machine Learning",
-    course: "Enroll Now",
-    price: "₹14990 only"
+    "id": 1,
+    "cover": "./images/courses/online/o3.png",
+    "hoverCover": "./images/courses/online/o3.1.png",
+    "courseName": "Artificial Intelligence and Machine Learning",
+    "course": "Enroll Now",
+    "price": "₹14990 only"
   },
   {
-    cover: "./images/courses/online/o5.png",
-    hoverCover: "./images/courses/online/o5.1.png",
-    courseName: "Data Science and Analytics",
-    course: "Enroll Now",
-    price: "₹14990 only"
+    "id": 2,
+    "cover": "./images/courses/online/o5.png",
+    "hoverCover": "./images/courses/online/o5.1.png",
+    "courseName": "Data Science",
+    "course": "Enroll Now",
+    "price": "₹14990 only"
   },
   {
-    cover: "./images/courses/online/o12.png",
-    hoverCover: "./images/courses/online/o12.1.png",
-    courseName: "DevOps and Agile Practices",
-    course: "Enroll Now",
-    price: "₹9990 only"
+    "id": 3,
+    "cover": "./images/courses/online/o12.png",
+    "hoverCover": "./images/courses/online/o12.1.png",
+    "courseName": "DevOps and Agile Practices",
+    "course": "Enroll Now",
+    "price": "₹9990 only"
   },
   {
-    cover: "./images/courses/online/o14.png",
-    hoverCover: "./images/courses/online/o14.1.png",
-    courseName: "Internet of Things (IoT)",
-    course: "Enroll Now",
-    price: "₹11990 only"
+    "id": 4,
+    "cover": "./images/courses/online/o14.png",
+    "hoverCover": "./images/courses/online/o14.1.png",
+    "courseName": "Internet of Things (IoT)",
+    "course": "Enroll Now",
+    "price": "₹11990 only"
   },
   {
-    cover: "./images/courses/online/o15.png",
-    hoverCover: "./images/courses/online/o15.1.png",
-    courseName: "Cloud Computing",
-    course: "Enroll Now",
-    price: "₹11990 only"
+    "id": 5,
+    "cover": "./images/courses/online/o15.png",
+    "hoverCover": "./images/courses/online/o15.1.png",
+    "courseName": "Cloud Computing",
+    "course": "Enroll Now",
+    "price": "₹11990 only"
   },
   {
-    cover: "./images/courses/online/o6.png",
-    hoverCover: "./images/courses/online/o6.1.png",
-    courseName: "Generative AI",
-    course: "Enroll Now",
-    price: "₹10500 only"
+    "id": 6,
+    "cover": "./images/courses/online/o6.png",
+    "hoverCover": "./images/courses/online/o6.1.png",
+    "courseName": "Generative AI",
+    "course": "Enroll Now",
+    "price": "₹10500 only"
   },
   {
-    cover: "./images/courses/online/o13.png",
-    hoverCover: "./images/courses/online/o13.1.png",
-    courseName: "Cyber Security",
-    course: "Enroll Now",
-    price: "₹9990 only"
+    "id": 7,
+    "cover": "./images/courses/online/o13.png",
+    "hoverCover": "./images/courses/online/o13.1.png",
+    "courseName": "Cyber Security",
+    "course": "Enroll Now",
+    "price": "₹9990 only"
   },
   {
-    cover: "./images/courses/online/o9.png",
-    hoverCover: "./images/courses/online/o9.1.png",
-    courseName: "GitHub",
-    course: "Enroll Now",
-    price: "₹1499 only"
+    "id": 8,
+    "cover": "./images/courses/online/o9.png",
+    "hoverCover": "./images/courses/online/o9.1.png",
+    "courseName": "GitHub",
+    "course": "Enroll Now",
+    "price": "₹1499 only"
   },
   {
-    cover: "./images/courses/online/o1.png",
-    hoverCover: "./images/courses/online/o1.1.png",
-    courseName: "Software Development and Programming",
-    course: "Enroll Now",
-    price: "₹14990 only"
+    "id": 9,
+    "cover": "./images/courses/online/o1.png",
+    "hoverCover": "./images/courses/online/o1.1.png",
+    "courseName": "Software Development and Programming",
+    "course": "Enroll Now",
+    "price": "₹14990 only"
   },
   {
-    cover: "./images/courses/online/o11.png",
-    hoverCover: "./images/courses/online/o11.1.png",
-    courseName: "Practice Interview with an Expert",
-    course: "Enroll Now",
-    price: "₹299 only"
-  },
-
+    "id": 10,
+    "cover": "./images/courses/online/o11.png",
+    "hoverCover": "./images/courses/online/o11.1.png",
+    "courseName": "Practice Interview with an Expert",
+    "course": "Enroll Now",
+    "price": "₹299 only"
+  }
 ]
+
 export const team = [
   {
     cover: "./images/team/t1.webp",
@@ -427,7 +437,7 @@ export const testimonal = [
     id: 1,
     name: "Neha Sharma",
     post: "Sr. Software Engineer",
-    desc: "Neha is currently employed at American Express, where she brings over five years of extensive experience in Full Stack development. Throughout her career, she has honed her skills in both front-end and back-end technologies, enabling her to design and implement robust, scalable, and user-friendly applications. Neha's expertise spans various programming languages and frameworks, allowing her to work seamlessly across the entire development lifecycle.",
+    desc: "Neha is currently employed at American Express, where she brings over six years of extensive experience in Full Stack development. Throughout her career, she has honed her skills in both front-end and back-end technologies, enabling her to design and implement robust, scalable, and user-friendly applications. Neha's expertise spans various programming languages and frameworks, allowing her to work seamlessly across the entire development lifecycle.",
     cover: "./images/testo/neha.webp",
     linkdin: "https://www.linkedin.com/in/neha-sharma-56b91914a/"
   },
@@ -454,5 +464,159 @@ export const testimonal = [
     desc: "Sheelender is a certified Data Science engineer with a specialization in Artificial Intelligence. His expertise in AI allows him to develop advanced algorithms and models that drive data-driven decision-making and innovation. Sheelender's strong foundation in Data Science, combined with his AI specialization, positions him as a key contributor in the field, capable of tackling complex challenges and delivering impactful solutions.",
     cover: "./images/testo/shilu.webp",
     linkdin: "https://www.linkedin.com/in/sheelendersharma/"
+  },
+  {
+    id: 4,
+    name: "Shreya Anand",
+    post: "Senior Software Developer",
+    desc: "Shreya is an experienced Backend Developer with extensive expertise in designing and building robust software solutions. Proficient in Java, Spring Boot, Microservices architecture, and DevOps methodologies, bringing a blend of technical skill and engineering excellence to every project. A passionate problem-solver with a proven track record in the software industry, dedicated to delivering scalable and efficient backend systems.",
+    cover: "./images/testo/shreya.webp",
+    linkdin: "https://www.linkedin.com/in/shreya-anand-412b19134/"
+  },
+]
+
+
+export const pythonQuestions = [
+  {
+    id: 1,
+    type: 'mcq',
+    name: "Question 1: What is the output of the following Python code?",
+    code: "print(3 * '7')",
+    option: ["1. 777", "2. 21", "3. 777", "4. ERROR"]
+  },
+  {
+    id: 2,
+    type: 'mcq',
+    name: "Question 2: Which of the following is used to comment a single line in R?",
+    code: "",
+    option: ["1. //", "2. /**/", "3. #", "4. <!-- -->"]
+  },
+  {
+    id: 3,
+    type: 'mcq',
+    name: "Question 3: What function is used to find the length of a list in Python?",
+    code: "",
+    option: ["1. size()", "2. length()", "3. len()", "4. count()"]
+  },
+  {
+    id: 4,
+    type: 'mcq',
+    name: "Question 4: In R, which keyword is Used for conditional execution of code?",
+    code: "",
+    option: ["1. if, else, else if", "2. for", "3. while", "4. repeat, break"]
+  },
+  {
+    id: 5,
+    type: 'mcq',
+    name: "Question 5: What is the correct syntax to create a function in Python?",
+    code: "",
+    option: ["1. def function_name():", "2. function function_name():", "3. create function_name():", "4. func function_name():"]
+  },
+  {
+    id: 6,
+    type: 'intermediateMcq',
+    name: "Question 6: What does the following Python list slicing return?",
+    code: "list = [1, 2, 3, 4, 5] <br/> print(list[1:4])",
+    option: ["1. [1, 2, 3, 4]", "2. [2, 3, 4]", "3. [1, 2, 3]", "4. [2, 3, 4, 5]"]
+  },
+  {
+    id: 7,
+    type: 'intermediateMcq',
+    name: "Question 7: In R, which function is used to  Display the explanation box?",
+    code: "",
+    option: ["1. fill", "2. legend", "3. lambda", "4. Display"]
+  },
+  {
+    id: 8,
+    type: 'intermediateMcq',
+    name: "Question 8: Which of the following is not a keyword in Python?",
+    code: "",
+    option: ["1. eval", "2. break", "3. end", "4. python"]
+  },
+  {
+    id: 9,
+    type: 'intermediateMcq',
+    name: "Question 9: In R, what is the output of the following code?",
+    code: "x <- c(1, 2, 3, 4) <br/> y <- x * 2 <br/> print(y)",
+    option: ["1. 1 2 3 4", "2. 2 4 6 8", "3. 1 4 9 16", "4. error"]
+  },
+  {
+    id: 10,
+    type: 'intermediateMcq',
+    name: "Question 10: Which of the following is a mutable data type in Python?",
+    code: "",
+    option: ["1. tuple", "2. list", "3. string", "4. int"]
+  },
+  {
+    id: 11,
+    type: 'intermediateMcq',
+    name: "Question 11: What will be the output of the following R code?",
+    code: "v <- c(a, b, c, d) <br/> v[2:3] ",
+    option: ["1. a b", "2. b c", "3. c d", "4. b c d"]
+  },
+  {
+    id: 12,
+    type: 'intermediateMcq',
+    name: "Question 12: Which keyword is used to handle exceptions in Python?",
+    code: "",
+    option: ["1. try", "2. catch", "3. except", "4. finally"]
+  },
+  {
+    id: 13,
+    type: 'intermediateMcq',
+    name: "Question 13: Function returns the square root of a number:",
+    code: "",
+    option: ["1. sqrt()", "2. square()", "3. sqr()", "4. root()"]
+  },
+  {
+    id: 14,
+    type: 'intermediateMcq',
+    name: "Question 14: What does the following Python code do?",
+    code: "x = [1, 2, 3, 4] <br/> print(x.pop())",
+    option: ["1. Removes and returns the first element", "2. Removes and returns the last element",
+      "3. Returns the length of the list", "4. Raises an error"]
+  },
+  {
+    id: 15,
+    type: 'intermediateMcq',
+    name: "Question 15: In R, what is the purpose of the (names.arg)?",
+    code: "",
+    option: ["1. defines the names of each observation in the x-axis or y-axis", "2. To get the first few elements of a data frame",
+      "3. To get the middle elements of a data frame", "To change the bar texture"]
+  },
+  {
+    id: 16,
+    type: 'program',
+    name: "Question 1: Write a Python function that takes a list of numbers and returns a new list containing only the even numbers.",
+    code: "",
+    option: []
+  },
+  {
+    id: 17,
+    type: 'program',
+    name: "Question 2: Make Bar Plot with all labels.",
+    code: "numbers <- c(5, 12, 3, 18, 7)",
+    option: []
+  },
+  {
+    id: 18,
+    type: 'program',
+    name: "Question 3: Write a Python function to calculate the factorial of a given number.",
+    code: "",
+    option: []
+  },
+  {
+    id: 19,
+    type: 'program',
+    name: "Question 4: Make line plot:",
+    code: "a <- c(5, 12, 3, 18, 7) <br/> b<- c(6, 15, 5, 20, 10) ",
+    option: []
+  },
+  {
+    id: 20,
+    type: 'program',
+    name: "Question 5: Write a Python function to reverse a string.",
+    code: "",
+    option: []
   },
 ]

@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useEffect } from "react"
 import Heading from "../common/heading/Heading"
 import "./about.css"
 import { homeAbout } from "../../dummydata"
@@ -6,7 +6,12 @@ import Awrapper from "./Awrapper"
 import comingSoon from '../assets/comingsoon.gif'
 import image from '../assets/about.png'
 
-const AboutCard = () => {
+const AboutCard = ({ setName }) => {
+
+  useEffect(() => {
+    setName('');
+  })
+
   console.log("Inside About card")
   return (
     <>

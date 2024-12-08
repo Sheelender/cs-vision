@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useEffect } from "react"
 import AboutCard from "../about/AboutCard"
 import Hblog from "./Hblog"
 import HAbout from "./HAbout"
@@ -7,15 +7,20 @@ import Hprice from "./Hprice"
 import Testimonal from "./testimonal/Testimonal"
 import Certificates from "./Certificates"
 
-const Home = () => {
+const Home = ({ setName }) => {
+
+  useEffect(() => {
+    setName('');
+  })
+
   return (
     <>
       <Hero />
 
-      <AboutCard />
-      <Certificates/>
-      <HAbout />
-      <Testimonal />
+      <AboutCard setName={setName} />
+      <Certificates />
+      <HAbout setName={setName} />
+      <Testimonal setName={setName} />
       {/* <Hblog /> */}
       {/* <Hprice /> */}
     </>

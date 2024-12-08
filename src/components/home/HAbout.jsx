@@ -1,11 +1,16 @@
-import React from "react"
+import React, { useEffect } from "react"
 import OnlineCourses from "../allcourses/OnlineCourses"
 import Heading from "../common/heading/Heading"
 import "../allcourses/courses.css"
 import { coursesCard } from "../../dummydata"
 import { Link } from "react-router-dom"
 
-const HAbout = () => {
+const HAbout = ({ setName }) => {
+
+  useEffect(() => {
+    setName('');
+  })
+
   return (
     <>
       <section className='homeAbout'>
@@ -63,8 +68,8 @@ const HAbout = () => {
                   </div>
                   <Link to='https://forms.gle/K8HsU9yKhFF8NAsB8' target="_blank" style={{ color: "#fff" }}>
                     <button className='outline-btn'>ENROLL NOW !</button>
-                    </Link>
-                  
+                  </Link>
+
                 </div>
               ))}
             </div>

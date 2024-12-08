@@ -1,11 +1,15 @@
-import React from "react"
+import React, { useEffect } from "react"
 import { testimonal } from "../../../dummydata"
 import Heading from "../../common/heading/Heading"
 import "./style.css"
 import ScrollableScreen from '../../common/animation/ScrollableScreen';
 
 
-const Testimonal = () => {
+const Testimonal = ({ setName }) => {
+
+  useEffect(() => {
+    setName('');
+  })
   return (
     <>
       <section className='testimonal padding'>

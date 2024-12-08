@@ -7,7 +7,7 @@ const About = () => {
   return (
     <>
       <Back title='About Us' />
-      <AboutCard />
+      <AboutCard setName={() => null} />
     </>
   )
 }
