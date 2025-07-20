@@ -1,8 +1,8 @@
 import React from "react"
 import Heading from "../../common/heading/Heading"
 import "./Hero.css"
-import { Link } from "react-router-dom"
-import YoutubeEmbed from "../../common/youtubeVideo/YoutubeEmbed"
+// import { Link } from "react-router-dom"
+// import YoutubeEmbed from "../../common/youtubeVideo/YoutubeEmbed"
 
 const Hero = () => {
 
@@ -26,7 +26,9 @@ const Hero = () => {
           </div>
         </div>
       </section>
-      <div className='margin'><YoutubeEmbed></YoutubeEmbed></div>
+      <div className='margin'>
+        {/* <YoutubeEmbed></YoutubeEmbed> */}
+      </div>
     </>
   )
 }

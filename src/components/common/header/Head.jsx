@@ -8,14 +8,17 @@ const Head = () => {
       <section className='head'>
         <div className='container flexSB'>
           <div className='logo'>
-            <img src={logo}
-              style={{
-                height: "91%",
-                width: "18%",
-                marginLeft: "-81px",
-                marginBottom: "-15%"
-              }}
-              alt="logo"></img>
+            <Link to='/'>
+              <img src={logo}
+                style={{
+                  height: "91%",
+                  width: "18%",
+                  marginLeft: "-81px",
+                  marginBottom: "-15%"
+                }}
+                alt="logo"></img>
+            </Link>
+
             <h1>CS Vision</h1>
             <span>DON'T LEARN WITHOUT US</span>
           </div>

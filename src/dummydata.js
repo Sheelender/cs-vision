@@ -208,9 +208,10 @@ export const online = [
     "id": 1,
     "cover": "./images/courses/online/o3.png",
     "hoverCover": "./images/courses/online/o3.1.png",
-    "courseName": "Artificial Intelligence and Machine Learning",
+    "courseName": "Full Stack Web Development",
     "course": "Enroll Now",
-    "price": "₹14990 only"
+    "price": "₹14990 only",
+    'courseUrl': "https://www.csvision.in/courses/603817?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp"
   },
   {
     "id": 2,
@@ -218,7 +219,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o5.1.png",
     "courseName": "Data Science",
     "course": "Enroll Now",
-    "price": "₹14990 only"
+    "price": "₹14990 only",
+    'courseUrl': 'https://www.csvision.in/courses/601546?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp'
   },
   {
     "id": 3,
@@ -226,7 +228,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o12.1.png",
     "courseName": "DevOps and Agile Practices",
     "course": "Enroll Now",
-    "price": "₹9990 only"
+    "price": "₹9990 only",
+    'courseUrl': "#"
   },
   {
     "id": 4,
@@ -234,7 +237,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o14.1.png",
     "courseName": "Internet of Things (IoT)",
     "course": "Enroll Now",
-    "price": "₹11990 only"
+    "price": "₹11990 only",
+    'courseUrl': "#"
   },
   {
     "id": 5,
@@ -242,7 +246,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o15.1.png",
     "courseName": "Cloud Computing",
     "course": "Enroll Now",
-    "price": "₹11990 only"
+    "price": "₹11990 only",
+    'courseUrl': "#"
   },
   {
     "id": 6,
@@ -250,7 +255,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o6.1.png",
     "courseName": "Generative AI",
     "course": "Enroll Now",
-    "price": "₹10500 only"
+    "price": "₹10500 only",
+    'courseUrl': "#"
   },
   {
     "id": 7,
@@ -258,7 +264,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o13.1.png",
     "courseName": "Cyber Security",
     "course": "Enroll Now",
-    "price": "₹9990 only"
+    "price": "₹9990 only",
+    'courseUrl': "#"
   },
   {
     "id": 8,
@@ -266,7 +273,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o9.1.png",
     "courseName": "GitHub",
     "course": "Enroll Now",
-    "price": "₹1499 only"
+    "price": "₹1499 only",
+    'courseUrl': "#"
   },
   {
     "id": 9,
@@ -274,7 +282,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o1.1.png",
     "courseName": "Software Development and Programming",
     "course": "Enroll Now",
-    "price": "₹14990 only"
+    "price": "₹14990 only",
+    'courseUrl': "#"
   },
   {
     "id": 10,
@@ -282,7 +291,8 @@ export const online = [
     "hoverCover": "./images/courses/online/o11.1.png",
     "courseName": "Practice Interview with an Expert",
     "course": "Enroll Now",
-    "price": "₹299 only"
+    "price": "₹299 only",
+    'courseUrl': "#"
   }
 ]
 
