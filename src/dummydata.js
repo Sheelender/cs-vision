@@ -210,7 +210,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o3.1.png",
     "courseName": "Full Stack Web Development",
     "course": "Enroll Now",
-    "price": "₹14990 only",
+    "price": "₹25000 only",
     'courseUrl': "https://www.csvision.in/courses/603817?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp"
   },
   {
