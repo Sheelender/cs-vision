@@ -1533,6 +1533,785 @@ const accordionData = {
       ],
       "className": "milestone-4"
     }
+  ],
+  11: [
+    {
+      "id": 1,
+      "title": "Digital Productivity & MS Office Fundamentals",
+      "content": [
+        "Understanding Digital Productivity and Workplace Skills",
+        "Introduction to Microsoft Office: Word, Excel, and PowerPoint",
+        "File and Folder Management, Cloud Storage, and Document Organization",
+        "Keyboard Shortcuts, Productivity Techniques, and Efficient Workflows",
+        "Working with Templates, Themes, and Professional Formatting Standards"
+      ],
+      "className": "milestone-1"
+    },
+
+    {
+      "id": 2,
+      "title": "MS Word – Professional Documents",
+      "content": [
+        "Creating and Formatting Professional Documents",
+        "Page Layout, Styles, Themes, Headers, Footers, and Page Numbers",
+        "Tables, Images, Shapes, SmartArt, Text Boxes, and Object Formatting",
+        "References: Table of Contents, Footnotes, Citations, and Captions",
+        "Mail Merge for Letters, Certificates, Labels, and Bulk Documents",
+        "Creating Professional Reports, Resumes, Letters, and Project Documents"
+      ],
+      "className": "milestone-2"
+    },
+
+    {
+      "id": 3,
+      "title": "MS Word – Advanced Document Management",
+      "content": [
+        "Advanced Styles, Sections, Columns, and Document Layout",
+        "Track Changes, Comments, Reviewing, and Collaborative Editing",
+        "Document Protection, Accessibility, and Professional Formatting",
+        "Creating Forms, Templates, and Reusable Document Structures",
+        "Converting, Sharing, Printing, and Exporting Documents to PDF",
+        "Practical Project: Creating a Complete Professional Report"
+      ],
+      "className": "milestone-3"
+    },
+
+    {
+      "id": 4,
+      "title": "MS Excel – Fundamentals & Formulas",
+      "content": [
+        "Understanding Workbooks, Worksheets, Rows, Columns, and Cell References",
+        "Data Entry, Formatting, Number Formats, and Spreadsheet Organization",
+        "Basic Formulas and Functions: SUM, AVERAGE, MIN, MAX, COUNT, and COUNTA",
+        "Relative, Absolute, and Mixed Cell References",
+        "Logical Functions: IF, AND, OR, IFERROR, and Nested IF",
+        "Sorting, Filtering, Find & Replace, and Data Validation",
+        "Practical Exercises Using Real-World Business and Student Data"
+      ],
+      "className": "milestone-4"
+    },
+
+    {
+      "id": 5,
+      "title": "MS Excel – Advanced Data Analysis",
+      "content": [
+        "Advanced Functions: SUMIF, SUMIFS, COUNTIF, COUNTIFS, AVERAGEIF, and AVERAGEIFS",
+        "Lookup Functions: XLOOKUP, VLOOKUP, HLOOKUP, and INDEX-MATCH",
+        "Text, Date, Time, and Mathematical Functions",
+        "Conditional Formatting and Dynamic Data Highlighting",
+        "Charts, Graphs, Sparklines, and Professional Data Visualization",
+        "PivotTables, PivotCharts, Slicers, and Interactive Reports",
+        "Practical Project: Creating an Interactive Sales or Performance Dashboard"
+      ],
+      "className": "milestone-1"
+    },
+
+    {
+      "id": 6,
+      "title": "MS Excel – Advanced Productivity & Automation",
+      "content": [
+        "Cleaning and Preparing Data for Analysis",
+        "Excel Tables, Named Ranges, and Dynamic Data Structures",
+        "What-If Analysis, Goal Seek, and Scenario-Based Analysis",
+        "Introduction to Power Query for Data Import and Transformation",
+        "Introduction to Macros and Excel Automation Concepts",
+        "Building Automated Reports and Reusable Excel Templates",
+        "Practical Project: Automated Business Data Analysis and Reporting"
+      ],
+      "className": "milestone-2"
+    },
+
+    {
+      "id": 7,
+      "title": "MS PowerPoint – Professional Presentations",
+      "content": [
+        "Presentation Planning: Audience, Objectives, and Storytelling",
+        "Slides, Layouts, Themes, Fonts, Colors, and Design Principles",
+        "Working with Images, Icons, Shapes, SmartArt, Tables, and Charts",
+        "Animations, Transitions, Morph, and Professional Slide Effects",
+        "Creating Infographics, Timelines, Process Diagrams, and Visual Stories",
+        "Presenter View, Speaker Notes, Presentation Delivery, and Slide Management",
+        "Practical Project: Creating a Professional Business or Academic Presentation"
+      ],
+      "className": "milestone-3"
+    },
+
+    {
+      "id": 8,
+      "title": "AI Productivity Tools & Prompt Engineering",
+      "content": [
+        "Introduction to Generative AI and AI-Powered Productivity",
+        "Understanding AI Assistants and Their Practical Applications",
+        "Prompt Engineering: Writing Clear, Effective, and Structured Prompts",
+        "Using AI for Writing, Rewriting, Summarization, Brainstorming, and Research",
+        "Using AI to Generate and Explain Excel Formulas and Analyze Data",
+        "Using AI to Create Presentation Ideas, Slide Content, and Speaker Notes",
+        "Using AI for Emails, Reports, Resumes, Content Creation, and Professional Communication",
+        "AI Limitations, Fact-Checking, Privacy, Copyright, and Responsible AI Usage"
+      ],
+      "className": "milestone-4"
+    },
+
+    {
+      "id": 9,
+      "title": "AI + MS Office Integration & Smart Workflows",
+      "content": [
+        "Using AI to Improve Word Documents, Reports, and Professional Writing",
+        "Using AI with Excel for Formula Generation, Data Analysis, and Insights",
+        "Using AI to Transform Data into Summaries, Reports, and Business Insights",
+        "Using AI to Design PowerPoint Presentations and Improve Visual Storytelling",
+        "Creating AI-Assisted Templates, Checklists, Reports, and Productivity Systems",
+        "Combining Word, Excel, PowerPoint, Email, and AI into End-to-End Workflows",
+        "Real-World Productivity Scenarios: Save Time, Reduce Repetitive Work, and Improve Accuracy"
+      ],
+      "className": "milestone-1"
+    },
+
+    {
+      "id": 10,
+      "title": "Capstone Project – Complete Digital Productivity Solution",
+      "content": [
+        "Understanding and Planning a Real-World Productivity Project",
+        "Creating a Professional Word Report with AI-Assisted Content",
+        "Building an Excel Dataset, Analysis Sheet, Dashboard, and Business Insights",
+        "Creating a PowerPoint Presentation from the Project Data",
+        "Using AI to Analyze, Improve, Summarize, and Present Project Outcomes",
+        "Integrating Multiple Office Applications into One Complete Workflow",
+        "Final Project Presentation and Practical Demonstration",
+        "Final Assessment, Performance Evaluation, and Feedback"
+      ],
+      "className": "milestone-2"
+    }
+  ],
+  12: [
+    {
+      "id": 1,
+      "title": "Advanced Excel Foundations & Professional Workflows",
+      "content": [
+        "Advanced Excel Interface, Workbook Management & Professional Formatting",
+        "Working with Tables, Named Ranges and Structured References",
+        "Data Validation, Advanced Sorting, Filtering and Custom Views",
+        "Professional Spreadsheet Design, Best Practices and Error Prevention"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Excel Formulas & Functions",
+      "content": [
+        "Logical Functions: IF, IFS, AND, OR, NOT and Nested Formulas",
+        "Conditional Functions: SUMIF, SUMIFS, COUNTIF, COUNTIFS and AVERAGEIFS",
+        "Text Functions: LEFT, RIGHT, MID, TEXT, TRIM, CLEAN, CONCAT and TEXTJOIN",
+        "Date & Time Functions: TODAY, NOW, DATE, YEAR, MONTH, DAY, EOMONTH and NETWORKDAYS"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 3,
+      "title": "Lookup, Reference & Dynamic Array Functions",
+      "content": [
+        "XLOOKUP: Exact Match, Approximate Match and Advanced Lookups",
+        "INDEX & MATCH: Flexible Two-Way and Multi-Criteria Lookups",
+        "VLOOKUP, HLOOKUP and Choosing the Right Lookup Method",
+        "Dynamic Array Functions: FILTER, SORT, UNIQUE, SEQUENCE and SORTBY"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 4,
+      "title": "Data Cleaning, Transformation & Analysis",
+      "content": [
+        "Identifying and Handling Missing, Duplicate and Inconsistent Data",
+        "Data Cleaning with Text-to-Columns, Flash Fill, Find & Replace and Functions",
+        "Working with Large Datasets and Converting Raw Data into Structured Tables",
+        "Data Analysis Techniques for Business, Sales, HR and Financial Data"
+      ],
+      "className": "milestone-4"
+    },
+    {
+      "id": 5,
+      "title": "Pivot Tables, Pivot Charts & Advanced Reporting",
+      "content": [
+        "Creating and Managing Pivot Tables from Large Datasets",
+        "Grouping, Filtering, Calculated Fields and Advanced Pivot Analysis",
+        "Creating Pivot Charts, Slicers and Timelines",
+        "Building Interactive Management Reports and Automated Summaries"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 6,
+      "title": "Advanced Data Visualization & Interactive Dashboards",
+      "content": [
+        "Choosing the Right Charts for Different Business Scenarios",
+        "Advanced Charts: Combo, Dynamic, KPI and Comparison Charts",
+        "Creating Interactive Dashboards with Slicers, Drop-Downs and Dynamic Formulas",
+        "Building Professional Sales, Finance, HR and Performance Dashboards"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 7,
+      "title": "Excel Automation & Productivity Techniques",
+      "content": [
+        "Automating Repetitive Excel Tasks and Report Preparation",
+        "Advanced Conditional Formatting and Dynamic Reporting Techniques",
+        "Introduction to Excel Macros and VBA Automation Concepts",
+        "Building Reusable Templates and Productivity-Focused Excel Workflows"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 8,
+      "title": "AI Tools for Excel & Smart Data Analysis",
+      "content": [
+        "Introduction to Generative AI and Its Role in Excel Productivity",
+        "Using AI to Generate, Explain and Troubleshoot Excel Formulas",
+        "AI-Assisted Data Cleaning, Analysis, Summarization and Insight Generation",
+        "Writing Effective AI Prompts for Excel, Data Analysis and Business Tasks"
+      ],
+      "className": "milestone-4"
+    },
+    {
+      "id": 9,
+      "title": "AI-Powered Reporting, Automation & Business Intelligence",
+      "content": [
+        "Using AI to Analyze Large Datasets and Identify Trends and Patterns",
+        "Generating Automated Business Summaries, Insights and Recommendations",
+        "AI-Assisted Dashboard Planning, Report Writing and Presentation Preparation",
+        "Combining Excel with AI Tools to Improve Accuracy, Speed and Productivity"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 10,
+      "title": "Capstone Projects & Job-Ready Excel Skills",
+      "content": [
+        "Real-World Sales Dashboard with Advanced Excel and AI Insights",
+        "Employee Performance and HR Analytics Project",
+        "Financial Data Analysis and Management Reporting Project",
+        "Final Capstone: Build, Analyze and Present a Complete AI-Powered Excel Solution"
+      ],
+      "className": "milestone-2"
+    }
+  ],
+  13: [
+    {
+      "id": 1,
+      "title": "Introduction to Python Programming",
+      "content": [
+        "Introduction to Python and Its Real-World Applications",
+        "Installing Python, VS Code, and Setting Up the Development Environment",
+        "Understanding Python Syntax, Indentation, Comments, and Code Structure",
+        "Writing and Running Your First Python Program",
+        "Python Interpreter, Scripts, and Interactive Mode"
+      ],
+      "className": "milestone-1"
+    },
+
+    {
+      "id": 2,
+      "title": "Python Variables, Data Types & Operators",
+      "content": [
+        "Variables, Constants, Naming Conventions, and Dynamic Typing",
+        "Understanding Numbers, Strings, Booleans, and None",
+        "Arithmetic, Assignment, Comparison, Logical, and Bitwise Operators",
+        "Type Conversion, Type Checking, and User Input",
+        "Building Basic Programs Using Expressions and Operators"
+      ],
+      "className": "milestone-2"
+    },
+
+    {
+      "id": 3,
+      "title": "Conditional Statements & Loops",
+      "content": [
+        "Decision Making with if, elif, and else",
+        "Nested Conditions and Multiple-Condition Logic",
+        "for and while Loops with Practical Examples",
+        "break, continue, and pass Statements",
+        "Nested Loops, Pattern Programs, and Logic-Building Exercises",
+        "Solving Real-World Problems Using Conditions and Iterations"
+      ],
+      "className": "milestone-3"
+    },
+
+    {
+      "id": 4,
+      "title": "Python Strings & Data Structures",
+      "content": [
+        "String Indexing, Slicing, Formatting, and Common String Methods",
+        "Lists: Creation, Indexing, Slicing, and List Methods",
+        "Tuples, Sets, and Dictionaries with Practical Use Cases",
+        "Nested Data Structures and Iterating Through Collections",
+        "List, Set, and Dictionary Comprehensions",
+        "Choosing the Right Data Structure for a Problem"
+      ],
+      "className": "milestone-4"
+    },
+
+    {
+      "id": 5,
+      "title": "Functions, Modules & Code Reusability",
+      "content": [
+        "Creating and Calling Functions",
+        "Parameters, Arguments, Return Values, and Default Arguments",
+        "Variable-Length Arguments: *args and **kwargs",
+        "Lambda Functions and Functional Programming Basics",
+        "Scope, Local and Global Variables",
+        "Importing Modules and Creating Custom Python Modules",
+        "Working with Python's Built-in and Standard Library Modules"
+      ],
+      "className": "milestone-1"
+    },
+
+    {
+      "id": 6,
+      "title": "Object-Oriented Programming in Python",
+      "content": [
+        "Understanding Classes, Objects, Attributes, and Methods",
+        "Constructors and the __init__ Method",
+        "Encapsulation, Inheritance, Polymorphism, and Abstraction",
+        "Instance, Class, and Static Methods",
+        "Magic Methods and Operator Overloading",
+        "Designing Reusable and Maintainable Python Applications"
+      ],
+      "className": "milestone-2"
+    },
+
+    {
+      "id": 7,
+      "title": "File Handling, Exceptions & Debugging",
+      "content": [
+        "Reading and Writing Text Files in Python",
+        "Working with CSV, JSON, and Structured Data Files",
+        "Exception Handling with try, except, else, and finally",
+        "Raising Custom Exceptions and Creating Robust Programs",
+        "Debugging Techniques and Understanding Common Python Errors",
+        "Logging, Validation, and Writing Reliable Python Code"
+      ],
+      "className": "milestone-3"
+    },
+
+    {
+      "id": 8,
+      "title": "Advanced Python & Practical Programming",
+      "content": [
+        "Iterators, Iterables, and Generators",
+        "Decorators and Context Managers",
+        "Regular Expressions for Text Processing",
+        "Working with Dates, Times, and Time Zones",
+        "Virtual Environments and Package Management with pip",
+        "Introduction to APIs and Making HTTP Requests",
+        "Writing Clean, Modular, and Production-Ready Python Code"
+      ],
+      "className": "milestone-4"
+    },
+
+    {
+      "id": 9,
+      "title": "Python for Automation, Data & Real-World Applications",
+      "content": [
+        "Automating Repetitive Tasks with Python",
+        "Working with Excel, CSV, and JSON Data",
+        "Data Processing, Filtering, Sorting, and Transformation",
+        "Web Data Collection and API-Based Data Retrieval",
+        "Introduction to Data Analysis with NumPy and Pandas",
+        "Creating Practical Automation Scripts and Productivity Tools",
+        "Building Real-World Applications from Business Problems"
+      ],
+      "className": "milestone-1"
+    },
+
+    {
+      "id": 10,
+      "title": "Capstone Projects & Career-Ready Python",
+      "content": [
+        "Understanding the Software Development Project Lifecycle",
+        "Project Planning, Problem Definition, and Solution Design",
+        "Building a Complete Python Application from Scratch",
+        "Applying Functions, OOP, File Handling, APIs, and Data Structures",
+        "Testing, Debugging, Documentation, and Code Optimization",
+        "Git and GitHub Basics for Managing Python Projects",
+        "Portfolio Development and Presenting Python Projects",
+        "Final Capstone Project and Practical Evaluation"
+      ],
+      "className": "milestone-2"
+    }
+  ],
+  14: [
+    {
+      "id": 1,
+      "title": "Java Fundamentals & Programming Foundations",
+      "content": [
+        "Introduction to Java and the Java Ecosystem",
+        "Installing JDK, Setting Up IntelliJ IDEA/Eclipse and Running Your First Program",
+        "Java Program Structure, Syntax, Keywords and Identifiers",
+        "Variables, Data Types, Literals and Type Casting",
+        "Operators, Expressions and Input/Output",
+        "Conditional Statements: if, else-if, switch",
+        "Loops: for, while, do-while and Nested Loops",
+        "Break, Continue and Practical Control-Flow Problems"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 2,
+      "title": "Methods, Arrays & String Programming",
+      "content": [
+        "Methods, Parameters, Return Types and Method Overloading",
+        "Scope, Local Variables and Passing Values to Methods",
+        "One-Dimensional and Multi-Dimensional Arrays",
+        "Array Traversal, Searching, Sorting and Common Array Problems",
+        "Strings, String Pool and Immutability",
+        "StringBuilder and StringBuffer",
+        "Common String Manipulation and Problem-Solving Techniques",
+        "Practice Problems: Arrays, Strings and Pattern Programming"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 3,
+      "title": "Object-Oriented Programming with Java",
+      "content": [
+        "Understanding Classes, Objects and Object-Oriented Thinking",
+        "Constructors, this Keyword and Instance Members",
+        "Encapsulation, Access Modifiers and Data Hiding",
+        "Inheritance, super Keyword and Method Overriding",
+        "Polymorphism: Compile-Time and Runtime Polymorphism",
+        "Abstraction Using Abstract Classes and Interfaces",
+        "Static, Final and Nested Classes",
+        "Designing Real-World Applications Using OOP Principles"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 4,
+      "title": "Exception Handling & Robust Java Applications",
+      "content": [
+        "Understanding Errors, Exceptions and Exception Hierarchy",
+        "try, catch, finally and Multiple Catch Blocks",
+        "throw and throws Keywords",
+        "Checked vs Unchecked Exceptions",
+        "Creating Custom Exceptions",
+        "Exception Propagation and Best Practices",
+        "Debugging Java Applications and Reading Stack Traces",
+        "Building Reliable Programs Through Defensive Programming"
+      ],
+      "className": "milestone-4"
+    },
+    {
+      "id": 5,
+      "title": "Collections Framework & Generics",
+      "content": [
+        "Introduction to the Java Collections Framework",
+        "List: ArrayList, LinkedList and Vector",
+        "Set: HashSet, LinkedHashSet and TreeSet",
+        "Map: HashMap, LinkedHashMap, TreeMap and Hashtable",
+        "Queue, Deque and PriorityQueue",
+        "Iterators, Enhanced for Loop and Collection Traversal",
+        "Comparable vs Comparator and Custom Sorting",
+        "Generics, Type Safety and Generic Classes/Methods"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 6,
+      "title": "Modern Java, Functional Programming & Streams",
+      "content": [
+        "Lambda Expressions and Functional Interfaces",
+        "Predicate, Consumer, Supplier and Function Interfaces",
+        "Method References and Constructor References",
+        "Stream API: filter, map, sorted, distinct and reduce",
+        "Collecting, Grouping and Partitioning Stream Data",
+        "Optional and Null-Safe Programming",
+        "Modern Java Features: var, Records, Switch Expressions and Text Blocks",
+        "Writing Clean, Concise and Maintainable Modern Java Code"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 7,
+      "title": "File Handling, Multithreading & Concurrency",
+      "content": [
+        "Java I/O Fundamentals and File Operations",
+        "Reading and Writing Text and Binary Files",
+        "Serialization and Deserialization",
+        "Introduction to Threads and the Thread Lifecycle",
+        "Creating Threads Using Thread and Runnable",
+        "Synchronization, Race Conditions and Thread Safety",
+        "ExecutorService, Callable, Future and Thread Pools",
+        "Concurrency Utilities, Locks and CompletableFuture"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 8,
+      "title": "JDBC, SQL & Database Programming",
+      "content": [
+        "Introduction to Relational Databases and SQL",
+        "Database Connectivity Using JDBC",
+        "Connecting Java Applications with MySQL/PostgreSQL",
+        "CRUD Operations: Create, Read, Update and Delete",
+        "PreparedStatement, ResultSet and Parameterized Queries",
+        "Transactions, Commit, Rollback and Batch Processing",
+        "Connection Management and Database Best Practices",
+        "Building a Database-Driven Java Application"
+      ],
+      "className": "milestone-4"
+    },
+    {
+      "id": 9,
+      "title": "Advanced Java & Backend Development",
+      "content": [
+        "Introduction to Backend Development with Java",
+        "HTTP, REST APIs, JSON and Client-Server Architecture",
+        "Building RESTful APIs Using Spring Boot",
+        "Spring Core: Dependency Injection and Inversion of Control",
+        "Spring MVC, Controllers, Services and Repository Architecture",
+        "Spring Data JPA, Hibernate and Entity Relationships",
+        "API Validation, Exception Handling and Authentication Basics",
+        "Building and Testing Production-Ready Backend Services"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 10,
+      "title": "Industry Project, Testing & Career Readiness",
+      "content": [
+        "Java Coding Standards, Clean Code and Design Principles",
+        "Unit Testing with JUnit and Introduction to Mockito",
+        "Git, GitHub and Professional Java Development Workflow",
+        "Debugging, Logging and Performance Optimization",
+        "Introduction to Design Patterns and SOLID Principles",
+        "Capstone Project: Designing and Building a Complete Java Application",
+        "Java Technical Interview: DSA, OOP, SQL and Backend Questions",
+        "Resume Projects, GitHub Portfolio and Java Developer Career Roadmap"
+      ],
+      "className": "milestone-2"
+    }
+  ],
+  15: [
+    {
+      "id": 1,
+      "title": "Introduction to Artificial Intelligence & Machine Learning",
+      "content": [
+        "Understanding Artificial Intelligence, Machine Learning, Deep Learning and Generative AI",
+        "Types of Machine Learning: Supervised, Unsupervised and Reinforcement Learning",
+        "Real-World Applications of AI/ML Across Industries",
+        "AI/ML Career Roadmap and Industry Skill Requirements"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 2,
+      "title": "Python Programming for AI & ML",
+      "content": [
+        "Python Fundamentals: Variables, Data Types, Operators and Control Flow",
+        "Functions, Modules, Packages, Exception Handling and File Operations",
+        "Object-Oriented Programming and Writing Reusable Python Code",
+        "Jupyter Notebook, Google Colab and Python Development Environment"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 3,
+      "title": "Python for Data Analysis",
+      "content": [
+        "NumPy Arrays, Vectorization and Numerical Computation",
+        "Pandas Series, DataFrames and Data Manipulation",
+        "Data Filtering, Sorting, Grouping, Merging and Aggregation",
+        "Importing and Exporting CSV, Excel, JSON and Database Data"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 4,
+      "title": "Data Visualization & Exploratory Data Analysis",
+      "content": [
+        "Data Visualization Fundamentals and Choosing the Right Chart",
+        "Matplotlib and Seaborn for Professional Data Visualization",
+        "Exploratory Data Analysis: Patterns, Trends and Relationships",
+        "Building Insightful EDA Reports from Real-World Datasets"
+      ],
+      "className": "milestone-4"
+    },
+    {
+      "id": 5,
+      "title": "Statistics & Mathematics for Machine Learning",
+      "content": [
+        "Descriptive Statistics: Mean, Median, Mode, Variance and Standard Deviation",
+        "Probability, Distributions, Conditional Probability and Bayes Theorem",
+        "Correlation, Covariance, Sampling and Hypothesis Testing",
+        "Linear Algebra and Calculus Concepts Behind Machine Learning"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 6,
+      "title": "Data Preprocessing & Feature Engineering",
+      "content": [
+        "Handling Missing Values, Duplicates, Inconsistent Data and Outliers",
+        "Encoding Categorical Variables and Feature Scaling",
+        "Feature Selection, Feature Extraction and Feature Engineering",
+        "Building a Complete Machine Learning Data Preparation Pipeline"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 7,
+      "title": "Machine Learning Fundamentals",
+      "content": [
+        "Understanding the Machine Learning Workflow from Data to Deployment",
+        "Training, Validation and Testing Datasets",
+        "Overfitting, Underfitting, Bias, Variance and Generalization",
+        "Cross-Validation and Model Evaluation Strategies"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 8,
+      "title": "Regression & Predictive Modeling",
+      "content": [
+        "Linear Regression and Multiple Linear Regression",
+        "Polynomial Regression and Regularization Techniques",
+        "Ridge, Lasso and Elastic Net Regression",
+        "Regression Evaluation: MAE, MSE, RMSE and R² Score"
+      ],
+      "className": "milestone-4"
+    },
+    {
+      "id": 9,
+      "title": "Classification Algorithms",
+      "content": [
+        "Logistic Regression and K-Nearest Neighbors",
+        "Decision Trees and Random Forest Classification",
+        "Support Vector Machines and Naive Bayes",
+        "Classification Evaluation: Accuracy, Precision, Recall, F1-Score and ROC-AUC"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 10,
+      "title": "Advanced Machine Learning & Ensemble Methods",
+      "content": [
+        "Bagging, Boosting and Ensemble Learning Concepts",
+        "Gradient Boosting, XGBoost and LightGBM",
+        "Hyperparameter Tuning with Grid Search and Random Search",
+        "Building Optimized Machine Learning Pipelines with Scikit-learn"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 11,
+      "title": "Unsupervised Learning & Anomaly Detection",
+      "content": [
+        "K-Means, Hierarchical Clustering and DBSCAN",
+        "Principal Component Analysis for Dimensionality Reduction",
+        "Customer Segmentation and Pattern Discovery",
+        "Anomaly Detection and Real-World Unsupervised Learning Applications"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 12,
+      "title": "Deep Learning & Neural Networks",
+      "content": [
+        "Introduction to Neural Networks and Deep Learning",
+        "Perceptrons, Layers, Activation Functions and Loss Functions",
+        "Forward Propagation, Backpropagation and Gradient Descent",
+        "Building Neural Networks using TensorFlow and PyTorch"
+      ],
+      "className": "milestone-4"
+    },
+    {
+      "id": 13,
+      "title": "Advanced Deep Learning",
+      "content": [
+        "Optimizers, Learning Rate Scheduling and Batch Normalization",
+        "Dropout, Regularization and Techniques to Prevent Overfitting",
+        "Transfer Learning and Pretrained Deep Learning Models",
+        "Training, Validation and Optimization of Deep Learning Models"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 14,
+      "title": "Computer Vision with AI",
+      "content": [
+        "Digital Images, Image Processing and Computer Vision Fundamentals",
+        "Convolutional Neural Networks and Image Classification",
+        "Image Augmentation, Transfer Learning and Feature Extraction",
+        "Object Detection Concepts and YOLO-Based Applications"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 15,
+      "title": "Natural Language Processing",
+      "content": [
+        "NLP Fundamentals and Text Data Processing",
+        "Tokenization, Stopwords, Stemming, Lemmatization and TF-IDF",
+        "Text Classification, Sentiment Analysis and Named Entity Recognition",
+        "Word Embeddings and Introduction to Transformer-Based NLP"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 16,
+      "title": "Generative AI & Large Language Models",
+      "content": [
+        "Understanding Generative AI and Large Language Models",
+        "Transformer Architecture, Attention Mechanism and LLM Fundamentals",
+        "Prompt Engineering, Few-Shot Learning and Structured Prompting",
+        "Building AI-Powered Applications using Modern LLM APIs"
+      ],
+      "className": "milestone-4"
+    },
+    {
+      "id": 17,
+      "title": "LLM Applications, Embeddings & RAG",
+      "content": [
+        "Understanding Embeddings, Semantic Search and Vector Databases",
+        "Retrieval-Augmented Generation Architecture and Workflow",
+        "Document Loading, Chunking, Retrieval and Context Management",
+        "Building a Production-Style AI Document Question-Answering System"
+      ],
+      "className": "milestone-1"
+    },
+    {
+      "id": 18,
+      "title": "AI Agents & Agentic AI",
+      "content": [
+        "Understanding AI Agents, Agentic Workflows and Tool Calling",
+        "Building Multi-Step AI Workflows with Tools and External Data",
+        "Memory, Planning, Reasoning and Task-Oriented AI Systems",
+        "Developing AI Agents for Automation and Real-World Business Use Cases"
+      ],
+      "className": "milestone-2"
+    },
+    {
+      "id": 19,
+      "title": "SQL, MLOps & AI Model Deployment",
+      "content": [
+        "SQL for Data Science: Queries, Joins, CTEs and Window Functions",
+        "Building ML APIs using FastAPI and Interactive Apps using Streamlit",
+        "Git, GitHub, Docker and Fundamentals of ML Model Deployment",
+        "Model Versioning, Monitoring, Pipelines and Production ML Concepts"
+      ],
+      "className": "milestone-3"
+    },
+    {
+      "id": 20,
+      "title": "Industry Projects, Capstone & Career Preparation",
+      "content": [
+        "End-to-End Projects in Prediction, Recommendation, NLP, Computer Vision and GenAI",
+        "Building a Major Capstone Project from Problem Definition to Deployment",
+        "GitHub Portfolio, Project Documentation, Resume and LinkedIn Preparation",
+        "AI/ML Technical Interviews, Mock Interviews and Career Guidance"
+      ],
+      "className": "milestone-4"
+    }
   ]
 };
 

@@ -66,9 +66,19 @@ const HAbout = ({ setName }) => {
                       {val.priceAll} / {val.pricePer}
                     </h3>
                   </div>
-                  <Link to='https://forms.gle/K8HsU9yKhFF8NAsB8' target="_blank" style={{ color: "#fff" }}>
+                  {/* <Link to='https://forms.gle/K8HsU9yKhFF8NAsB8' target="_blank" style={{ color: "#fff" }}>
                     <button className='outline-btn'>ENROLL NOW !</button>
-                  </Link>
+                  </Link> */}
+                  <a
+                    href={`https://wa.me/919205038806?text=${encodeURIComponent(
+                      `Hi, I’m interested in the ${val.coursesName} Course. Could you please share the course details, fees, duration, class schedule, and enrollment process? Thank you!`
+                    )}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: "#fff" }}
+                  >
+                    <button className="outline-btn">ENROLL NOW !</button>
+                  </a>
 
                 </div>
               ))}

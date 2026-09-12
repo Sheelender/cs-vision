@@ -210,7 +210,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o3.1.png",
     "courseName": "Full Stack Web Development",
     "course": "Enroll Now",
-    "price": "₹25000 only",
+    "price": "₹35,000 only",
     'courseUrl': "https://www.csvision.in/courses/603817?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp"
   },
   {
@@ -219,7 +219,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o5.1.png",
     "courseName": "Data Science",
     "course": "Enroll Now",
-    "price": "₹14990 only",
+    "price": "₹25,000 only",
     'courseUrl': 'https://www.csvision.in/courses/601546?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp'
   },
   {
@@ -228,7 +228,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o12.1.png",
     "courseName": "DevOps and Agile Practices",
     "course": "Enroll Now",
-    "price": "₹9990 only",
+    "price": "₹9,990 only",
     'courseUrl': "#"
   },
   {
@@ -237,7 +237,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o14.1.png",
     "courseName": "Internet of Things (IoT)",
     "course": "Enroll Now",
-    "price": "₹11990 only",
+    "price": "₹11,990 only",
     'courseUrl': "#"
   },
   {
@@ -246,7 +246,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o15.1.png",
     "courseName": "Cloud Computing",
     "course": "Enroll Now",
-    "price": "₹11990 only",
+    "price": "₹11,990 only",
     'courseUrl': "#"
   },
   {
@@ -255,7 +255,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o6.1.png",
     "courseName": "Generative AI",
     "course": "Enroll Now",
-    "price": "₹10500 only",
+    "price": "₹10,500 only",
     'courseUrl': "#"
   },
   {
@@ -264,7 +264,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o13.1.png",
     "courseName": "Cyber Security",
     "course": "Enroll Now",
-    "price": "₹9990 only",
+    "price": "₹9,990 only",
     'courseUrl': "#"
   },
   {
@@ -273,7 +273,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o9.1.png",
     "courseName": "GitHub",
     "course": "Enroll Now",
-    "price": "₹1499 only",
+    "price": "₹1,499 only",
     'courseUrl': "#"
   },
   {
@@ -282,7 +282,7 @@ export const online = [
     "hoverCover": "./images/courses/online/o1.1.png",
     "courseName": "Software Development and Programming",
     "course": "Enroll Now",
-    "price": "₹14990 only",
+    "price": "₹14,990 only",
     'courseUrl': "#"
   },
   {
@@ -293,6 +293,51 @@ export const online = [
     "course": "Enroll Now",
     "price": "₹299 only",
     'courseUrl': "#"
+  },
+  {
+    "id": 11,
+    "cover": "./images/courses/online/o6.png",
+    "hoverCover": "./images/courses/online/o6.1.png",
+    "courseName": "MS Office + AI Productivity Tools",
+    "course": "Enroll Now",
+    "price": "₹5,000 only",
+    'courseUrl': "https://www.csvision.in/courses/709712?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp"
+  },
+  {
+    "id": 12,
+    "cover": "./images/courses/online/o4.png",
+    "hoverCover": "./images/courses/online/o4.1.png",
+    "courseName": "Advanced Excel + AI Tools",
+    "course": "Enroll Now",
+    "price": "₹5,000 only",
+    'courseUrl': "https://www.csvision.in/courses/898718?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp"
+  },
+  {
+    "id": 13,
+    "cover": "./images/courses/online/o12.png",
+    "hoverCover": "./images/courses/online/o12.1.png",
+    "courseName": "Python Programming",
+    "course": "Enroll Now",
+    "price": "₹12,000 only",
+    'courseUrl': "https://www.csvision.in/courses/748257?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp"
+  },
+  {
+    "id": 14,
+    "cover": "./images/courses/online/o12.png",
+    "hoverCover": "./images/courses/online/o12.1.png",
+    "courseName": "Java Programming",
+    "course": "Enroll Now",
+    "price": "₹15,000 only",
+    'courseUrl': "https://www.csvision.in/courses/773857?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp"
+  },
+  {
+    "id": 15,
+    "cover": "./images/courses/online/o6.png",
+    "hoverCover": "./images/courses/online/o6.1.png",
+    "courseName": "AI & Machine Learning",
+    "course": "Enroll Now",
+    "price": "₹30,000 only",
+    'courseUrl': "https://www.csvision.in/courses/898738?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp"
   }
 ]
 
@@ -463,7 +508,7 @@ export const testimonal = [
     id: 3,
     name: "Satyam Pandey",
     post: "Software Engineer",
-    desc: "Satyam is a software developer at Panamoure with a strong expertise in Data Science, Artificial Intelligence, and the Microsoft Power Platform, for which he holds a certification. His technical skills enable him to develop sophisticated data-driven solutions and leverage AI to enhance business processes. Satyam's proficiency in these cutting-edge technologies makes him a valuable asset to his team, driving innovation and efficiency in the projects he undertakes.",
+    desc: "Satyam is a software developer at EY with a strong expertise in Data Science, Artificial Intelligence, and the Microsoft Power Platform, for which he holds a certification. His technical skills enable him to develop sophisticated data-driven solutions and leverage AI to enhance business processes. Satyam's proficiency in these cutting-edge technologies makes him a valuable asset to his team, driving innovation and efficiency in the projects he undertakes.",
     cover: "./images/testo/sat.webp",
     linkdin: "https://www.linkedin.com/in/satyam-pandey-2b05741ba/"
   },
